@@ -5,7 +5,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <link rel="icon" href="/images/icon.png" />
+        <link rel="icon" type="image/x-icon" href="/icon.png" />
         <TrackingAnalytics />
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
         <script type="text/javascript" src="/typetura.js" />
