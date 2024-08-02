@@ -351,7 +351,7 @@ export default function Home() {
             <div className="mt-20 mb-12">
               <p className="ft-1 text-white">
                 Ya llegaste hasta acá, <br/>
-                ya le dedicaste unos minutos de tu valioso tiempo a saber como puedes curar tus cultivos en tiempo
+                ya le dedicaste unos minutos de tu valioso tiempo a saber como puedes curar tus animales en tiempo
                 exprés.
                 <br/><br/>
                 Regálanos unos datos y mándanos un WhatsApp.

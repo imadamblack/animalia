@@ -103,13 +103,13 @@ export default function OptInForm({lastClick = 'fullScroll'}) {
           'type',
           {required: true,},
         )}
-        className={errors.cropType && '!bg-red-200'}
+        className={errors.type && '!bg-red-200'}
         placeholder="Tipo de ganado"/>
       <input
         {...register(
           'units',
         )}
-        className={errors.hectare && '!bg-red-200'}
+        className={errors.units && '!bg-red-200'}
         onKeyDown={restrictNumber}
         placeholder="Cabezas de ganado"/>
 
