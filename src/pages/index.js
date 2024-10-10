@@ -56,7 +56,7 @@ export default function Home() {
         <div className="container w-full text-center md:text-left text-white z-10 p-8">
           <h1
             className="md:w-2/3 relative font-medium ft-9 text-white [text-shadow:_2px_2px_0_rgb(0_0_0_/_20%)]">
-            Reduce las enfermedades de tu ganado bovino, porcino o avícola en 72 horas y aumenta su peso vivo al menos
+            Reduce las enfermedades de tu ganado bovino, porcino o de tus aves en 72 horas y aumenta su peso vivo al menos
             un 10%
           </h1>
           <p className="md:w-2/3 ft-2 font-medium md:text-left my-12">{cta.description}</p>
